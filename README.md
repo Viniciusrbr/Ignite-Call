@@ -1,4 +1,4 @@
-![Preview](https://s3-alpha.figma.com/hub/file/2469316148/26d4295b-6000-4793-87ed-04c3144af04a-cover.png)
+![previa-do-projeto](https://raw.githubusercontent.com/tavareshenrique/ignite-reactjs-v2/main/06-ignite-call/src/assets/previews/Screenshot%202023-10-16%20at%2007.01.34.png)
 
 Ignite Call é um projeto desenvolvido na trilha ReactJS do Ignite da Rocketseat. Durante o desenvolvimento foram abordados conceitos como: Design System, cadastro de usuário em banco de dados, autenticação no Next.js, cookies, OAuth, formulários, gerenciamento de datas e horários, calendário Google, SEO, deploy.
 
