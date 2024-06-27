@@ -6,9 +6,9 @@ import { ArrowRight } from 'phosphor-react'
 import { useEffect } from 'react'
 import { useForm } from 'react-hook-form'
 import { z } from 'zod'
+import { api } from '../../lib/axios'
 
 import { Container, Form, FormError, Header } from './styles'
-import { api } from '@/lib/axios'
 
 const registerFormSchema = z.object({
   username: z
